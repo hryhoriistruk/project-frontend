@@ -1,0 +1,15 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 3px;
+    font-family: "Times New Roman", sans-serif;
+}
+
+.current-button-color {
+    color: red;
+}
+
+hr {
+    width: 33%;
+    margin-left: 0;
+}
