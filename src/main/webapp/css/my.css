@@ -3,7 +3,7 @@ table, th, td {
     border-collapse: collapse;
     padding: 3px;
     font-family: "Times New Roman", sans-serif;
-}
+} 
 
 .current-button-color {
     color: red;
