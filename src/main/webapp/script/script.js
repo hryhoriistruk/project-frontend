@@ -7,7 +7,7 @@ $(function () {
     updateAccountTable();
     updateCountAccounts();
 });
-
+ 
 function updateAccountTable() {
     $.get(`rest/players?pageNumber=${currentPageNumber}&pageSize=${pageSize}`, (players) => {
         let $tableBody = $("#player-table-body");
